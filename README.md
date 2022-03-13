@@ -35,3 +35,5 @@ Campus Placement Prediction - https://campus-recruitment-75.herokuapp.com/
 6.Flask - 1.1.1
 
 7.Pickle - 1.0.2
+
+![alt text](https://github.com/AdityarajChaudhari/SalaryCensus/blob/main/Screenshot%20(224).png)
