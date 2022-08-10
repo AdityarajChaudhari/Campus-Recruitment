@@ -57,13 +57,6 @@ Here we consider features like gender, hsc stream, under graduate degree,etc to 
 Further we can also analyze the data and then help students to decide where to focus more and where to focus less. So in case if work experience adds more chances for students getting placed then we can also analyze this and can motivate other students to acquire work experience so that they can easily get placement.
 
 
-## 💨 DESCRIPTIVE VIDEO 📹
-
-
-
-
-https://user-images.githubusercontent.com/69085978/136650993-ad022420-8750-419e-8a3c-8cfb8e97dde6.mp4
-
 ## 💨 CONTRIBUTOR/AUTHOR 👨‍💻
 
 **Adityaraj Hemant Chaudhari.**
